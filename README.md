@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **TypeScript, Node.js, Redux**
 
-- 👨‍💻 All of my projects are available at [grochowp.netlify.app](grochowp.netlify.app)
+- 👨‍💻 All of my projects are available at [grochowp.netlify.app](https://grochowp.netlify.app)
 
 - 📫 How to reach me **patgro3@wp.pl**
 
