@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [Movielo](https://github.com/grochowp/Movielo)
 
-- 🌱 I’m currently learning **TypeScript, Node.js, Redux**
+- 🌱 I’m currently learning **TypeScript, Node.js**
 
 - 👨‍💻 All of my projects are available at [grochowp.netlify.app](https://grochowp.netlify.app)
 
-- 📫 How to reach me **patgro3@wp.pl**
+- 📫 How to reach me **grochowp2@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
