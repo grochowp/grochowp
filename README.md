@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on [Movielo](https://github.com/grochowp/Movielo)
+- 🔭 I’m currently working on [Fit-Companion-App](https://github.com/grochowp/Fit-Companion-App)
 
 - 🌱 I’m currently learning **TypeScript, Node.js**
 
