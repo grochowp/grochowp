@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on [Quizora](https://github.com/grochowp/Quizora)
+- 🔭 I’m currently working on [TutorPlanner](https://github.com/Gulewskr/TutorPlanner) & [Quizora](https://github.com/grochowp/Quizora)
 
 - 🌱 I’m currently learning **TypeScript, Node.js**
 
