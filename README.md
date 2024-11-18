@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Patryk</h1>
 <h3 align="center">A passionate frontend developer from Poland</h3>
 
-- 🔭 I’m currently working on [TutorPlanner](https://github.com/Gulewskr/TutorPlanner) & [Quizora](https://github.com/grochowp/Quizora)
+- 🔭 I’m currently working on [Quizora](https://github.com/grochowp/Quizora)
 
 - 🌱 I’m currently learning **TypeScript, Node.js, Tailwind**
 
