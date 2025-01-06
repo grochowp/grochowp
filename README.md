@@ -26,6 +26,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="48" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="48" height="48"/>
   <img src="https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=FFFFFF" alt="express" width="48" height="48" color="white"/>
+  <img src="https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000" width="48" height="48" alt="Tailwind">
 </p>
 
 # 💻 Technologies:
@@ -46,13 +47,7 @@
       <br /><strong>NodeJS</strong>
     </td>
     <td align="center" height="108" width="108">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"
-      width="48" height="48" alt="React Native">
-      <br /><strong>React Native</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img src="https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000"
-      width="48" height="48" alt="Tailwind">
+       <img src="https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000" width="48" height="48" alt="Tailwind">
       <br /><strong>Tailwind</strong>
     </td>
   </tr>
@@ -82,10 +77,10 @@
       width="48" height="48" alt="React Native">
       <br /><strong>React Native</strong>
     </td>
-    <td align="center" height="108" width="108">
-      <img src="https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000"
-      width="48" height="48" alt="Tailwind">
-      <br /><strong>Tailwind</strong>
+   <td align="center" height="108" width="108">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"
+      width="48" height="48" alt="Java">
+      <br /><strong>Java</strong>
     </td>
   </tr>
 </table>
